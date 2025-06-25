@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MAFT: Lightweight Semantic Segmentation Toolbox
 
 This repository provides the official PyTorch implementation for MAFT and related lightweight semantic segmentation models.
@@ -69,6 +70,3 @@ python demo/image_demo.py <IMAGE_PATH> <CONFIG_PATH> <CHECKPOINT_PATH> --device 
 ## Pretrained Weights
 
 Pretrained weights are available in the `pretrained-weight/` directory.
-
-
-
