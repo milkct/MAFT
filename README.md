@@ -14,7 +14,7 @@ This repository provides the official PyTorch implementation for MAFT and relate
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/milkct/TWMARS-V2
+   git clone https://github.com/milkct/MAFT
    cd MAFT
    ```
 
@@ -34,7 +34,7 @@ This repository provides the official PyTorch implementation for MAFT and relate
 ## Dataset Preparation
 
 - Prepare your dataset following the MMSegmentation format.
-- Example datasets and splits are provided in `data_new/` and `new/`.
+- Datasets are provided in `https://github.com/milkct/TWMARS-V2'
 
 ## Training
 
@@ -69,4 +69,4 @@ python demo/image_demo.py <IMAGE_PATH> <CONFIG_PATH> <CHECKPOINT_PATH> --device 
 
 ## Pretrained Weights
 
-Pretrained weights are available in the `pretrained-weight/` directory.
+Pretrained weights are available in the https://pan.baidu.com/s/1aZtsEEzKkHBYh2uc7KtTtQ 提取码: p5x3
