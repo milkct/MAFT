@@ -1,13 +1,9 @@
 <<<<<<< HEAD
-# MAFT: Lightweight Semantic Segmentation Toolbox
-
-This repository provides the official PyTorch implementation for MAFT and related lightweight semantic segmentation models.
+# MAFT: A Lightweight Network for Segmentation of Rocks of Mars based on an Adaptive Frequency Transformer
 
 ## Features
-
-- Modular and extensible codebase based on MMSegmentation.
 - Supports training, evaluation, and visualization.
-- Includes multiple backbone architectures and configuration files.
+- Includes the identification of rocks on the surface of Mars
 - Ready-to-use scripts for single/multi-GPU training and testing.
 
 ## Installation
@@ -69,4 +65,5 @@ python demo/image_demo.py <IMAGE_PATH> <CONFIG_PATH> <CHECKPOINT_PATH> --device 
 
 ## Pretrained Weights
 
-Pretrained weights are available in the https://pan.baidu.com/s/1aZtsEEzKkHBYh2uc7KtTtQ 提取码: p5x3
+Pretrained weights are available in the https://pan.baidu.com/s/1aZtsEEzKkHBYh2uc7KtTtQ 
+code: p5x3
